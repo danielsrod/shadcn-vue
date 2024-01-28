@@ -1,0 +1,47 @@
+[
+	{
+		"name": "Italo Pedroza",
+		"age": 22,
+		"role": "Frontend Developer"
+	},
+	{
+		"name": "Daniel Rodrigues",
+		"age": 23,
+		"role": "Fullstack Developer"
+	},
+	{
+		"name": "Jairo Abreu",
+		"age": 23,
+		"role": "Fullstack Developer"
+	},
+	{
+		"name": "Eduardo Araujo",
+		"age": 30,
+		"role": "Fullstack Developer"
+	},
+	{
+		"name": "Robson Freitas",
+		"age": 20,
+		"role": "Tech Lead"
+	},
+	{
+		"name": "Pedro Menezes",
+		"age": 22,
+		"role": "Scrum Master"
+	},
+	{
+		"name": "Hugo Lima",
+		"age": 28,
+		"role": "Director"
+	},
+	{
+		"name": "Adriano Neves",
+		"age": 30,
+		"role": "Mobile Developer"
+	},
+	{
+		"name": "Mateus Nery",
+		"age": 25,
+		"role": "Analyst"
+	}
+]
